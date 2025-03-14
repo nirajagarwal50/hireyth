@@ -64,6 +64,7 @@ export default {
 					ring: 'hsl(var(--sidebar-ring))'
 				},
 				hireyth: {
+					'main': '#FEC25D',
 					'blue': '#0EA5E9',
 					'light-blue': '#7DD3FC',
 					'lightest-blue': '#E0F2FE',
