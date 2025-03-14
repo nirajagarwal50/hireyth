@@ -47,11 +47,11 @@ const LandingPage = () => {
         </div>
         
         {/* Login Button */}
-        <div className="mb-12 w-full max-w-xs mx-auto">
+        <div className="mb-20 w-full max-w-xs mx-auto">
           <Button 
             asChild 
             size="lg" 
-            className="w-full bg-white text-hireyth-main hover:bg-white/90 font-semibold text-lg shadow-lg hover:shadow-xl transition-all"
+            className="w-full bg-white text-hireyth-main hover:bg-white/90 font-semibold text-lg shadow-lg hover:shadow-xl transition-all shadow-black/20"
           >
             <Link to="/login">
               Get Started
